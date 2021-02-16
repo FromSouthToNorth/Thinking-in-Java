@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -42,12 +45,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.StackTest">
-    <configuration name="LinkedListFeatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.LinkedListFeatures" />
+  <component name="RunManager" selected="Application.PetMap">
+    <configuration name="PetMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.PetMap" />
       <module name="Thinking_in_Java" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.ListIteration" />
+    <configuration name="SetOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.SetOfInteger" />
       <module name="Thinking_in_Java" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.Practice11" />
+    <configuration name="SetOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.SetOperations" />
       <module name="Thinking_in_Java" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.Practice12" />
+    <configuration name="SortedSetOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.SortedSetOfInteger" />
       <module name="Thinking_in_Java" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.StackTest" />
+    <configuration name="Statistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.Statistics" />
       <module name="Thinking_in_Java" />
       <extension name="coverage">
         <pattern>
@@ -111,26 +117,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StackTest" />
-        <item itemvalue="Application.LinkedListFeatures" />
-        <item itemvalue="Application.Practice12" />
-        <item itemvalue="Application.ListIteration" />
-        <item itemvalue="Application.Practice11" />
+        <item itemvalue="Application.PetMap" />
+        <item itemvalue="Application.SetOperations" />
+        <item itemvalue="Application.SortedSetOfInteger" />
+        <item itemvalue="Application.Statistics" />
+        <item itemvalue="Application.SetOfInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +150,7 @@
       <workItem from="1613355343639" duration="7396000" />
       <workItem from="1613372946731" duration="4105000" />
       <workItem from="1613380168960" duration="4613000" />
+      <workItem from="1613468810942" duration="11057000" />
     </task>
     <servers />
   </component>
