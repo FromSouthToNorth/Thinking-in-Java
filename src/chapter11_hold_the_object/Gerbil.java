@@ -41,4 +41,13 @@ public class Gerbil
     {
         this.jump = jump;
     }
+
+    @Override
+    public String toString()
+    {
+        return "Gerbil{" +
+                "gerbilNumber=" + gerbilNumber +
+                ", jump='" + jump + '\'' +
+                '}';
+    }
 }

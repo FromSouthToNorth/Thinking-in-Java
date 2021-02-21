@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37c54027-8b3b-470e-8d44-004b11eb98f0" name="Default Changelist" comment="" />
+    <list default="true" id="37c54027-8b3b-470e-8d44-004b11eb98f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter11_hold_the_object/CollectionSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11_hold_the_object/Practice28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11_hold_the_object/Practice29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Thinking_in_Java/chapter11_hold_the_object/Gerbil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking_in_Java/chapter11_hold_the_object/Gerbil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Thinking_in_Java/chapter11_hold_the_object/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking_in_Java/chapter11_hold_the_object/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Thinking_in_Java/chapter11_hold_the_object/PetMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking_in_Java/chapter11_hold_the_object/PetMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter11_hold_the_object/Gerbil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11_hold_the_object/Gerbil.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,12 +56,12 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.PetMap">
-    <configuration name="PetMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.PetMap" />
+  <component name="RunManager" selected="Application.CollectionSequence">
+    <configuration name="CollectionSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.CollectionSequence" />
       <module name="Thinking_in_Java" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.SetOfInteger" />
+    <configuration name="InterfaceVsIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.InterfaceVsIterator" />
       <module name="Thinking_in_Java" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.SetOperations" />
+    <configuration name="Practice28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.Practice28" />
       <module name="Thinking_in_Java" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedSetOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.SortedSetOfInteger" />
+    <configuration name="Practice29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.Practice29" />
       <module name="Thinking_in_Java" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Statistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.Statistics" />
+    <configuration name="PriorityQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11_hold_the_object.PriorityQueueDemo" />
       <module name="Thinking_in_Java" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PetMap" />
-        <item itemvalue="Application.SetOperations" />
-        <item itemvalue="Application.SortedSetOfInteger" />
-        <item itemvalue="Application.Statistics" />
-        <item itemvalue="Application.SetOfInteger" />
+        <item itemvalue="Application.CollectionSequence" />
+        <item itemvalue="Application.InterfaceVsIterator" />
+        <item itemvalue="Application.Practice29" />
+        <item itemvalue="Application.Practice28" />
+        <item itemvalue="Application.PriorityQueueDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +159,10 @@
       <workItem from="1613372946731" duration="4105000" />
       <workItem from="1613380168960" duration="4613000" />
       <workItem from="1613468810942" duration="11057000" />
+      <workItem from="1613557026789" duration="2548000" />
+      <workItem from="1613619443450" duration="4178000" />
+      <workItem from="1613828051406" duration="5011000" />
+      <workItem from="1613876683969" duration="4654000" />
     </task>
     <servers />
   </component>
